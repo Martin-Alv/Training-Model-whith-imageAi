@@ -12,8 +12,8 @@ Description of use to train an image classification model with the imageAi libra
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/.git
-  cd FinOps
+  git clone https://github.com/Martin-Alv/Training-Model-whith-imageAiI.git
+  cd Training-Model-whith-imageAi
   ```
 
 2. Create a virtual environment:
@@ -35,8 +35,8 @@ Description of use to train an image classification model with the imageAi libra
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/iNBest-cloud/FinOps.git
-  cd FinOps
+  git clone https://github.com/Martin-Alv/Training-Model-whith-imageAiI.git
+  cd Training-Model-whith-imageAi
   ```
 
 2. Create a virtual environment:
