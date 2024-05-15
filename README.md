@@ -55,5 +55,5 @@ Description of use to train an image classification model with the imageAi libra
   ```
 
 ## Usage
-
+run the trading script
 
